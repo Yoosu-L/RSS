@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Nice Stuff</title>
+    <link>https://www.example.com</link>
+    <description>no description</description>
+    <language>zh-cn</language>
+
+    <item>
+      <title>Title 1</title>
+      <link>https://www.example.com/article1</link>
+      <pubDate>Mon, 22 Sep 2024 10:00:00 +0800</pubDate>
+    </item>
+
+    <item>
+      <title>Title 2</title>
+      <link>https://www.example.com/article2</link>
+      <pubDate>Tue, 23 Sep 2024 12:00:00 +0800</pubDate>
+    </item>
+
+  </channel>
+</rss>
